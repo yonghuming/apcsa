@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-47842b9a","path":"/vocabulary.html","title":"APCSA Vocabulary","lang":"EN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"vocabulary.md"}');export{a as data};

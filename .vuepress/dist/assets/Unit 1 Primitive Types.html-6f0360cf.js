@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3b426773","path":"/basic/Unit%201%20Primitive%20Types.html","title":"","lang":"EN","frontmatter":{},"headers":[],"git":{},"filePathRelative":"basic/Unit 1 Primitive Types.md"}');export{t as data};

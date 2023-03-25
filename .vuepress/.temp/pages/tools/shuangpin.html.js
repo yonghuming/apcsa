@@ -1,0 +1,1 @@
+export const data = JSON.parse("{\"key\":\"v-5f2032ab\",\"path\":\"/tools/shuangpin.html\",\"title\":\"\",\"lang\":\"EN\",\"frontmatter\":{},\"headers\":[{\"level\":2,\"title\":\"双拼\",\"slug\":\"双拼\",\"link\":\"#双拼\",\"children\":[]}],\"git\":{},\"filePathRelative\":\"tools/shuangpin.md\"}")

@@ -1,0 +1,1 @@
+import{_ as t,p as a,q as n,R as e,t as s}from"./framework-5866ffd3.js";const c={},o=e("h2",{id:"双拼",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#双拼","aria-hidden":"true"},"#"),s(" 双拼")],-1),r=e("p",null,"双拼可以非常大的提高打字效率。学习一次受用终身。",-1),_=[o,r];function d(i,h){return a(),n("div",null,_)}const u=t(c,[["render",d],["__file","shuangpin.html.vue"]]);export{u as default};
