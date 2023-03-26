@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-47842b9a","path":"/vocabulary.html","title":"APCSA Vocabulary","lang":"EN","frontmatter":{},"headers":[],"git":{"updatedTime":1679748146000,"contributors":[{"name":"yonghuming","email":"964683112@qq.com","commits":1}]},"filePathRelative":"vocabulary.md"}');export{a as data};

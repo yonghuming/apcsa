@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7446e623","path":"/frq/","title":"2019 readme","lang":"EN","frontmatter":{},"headers":[],"git":{"updatedTime":1679748146000,"contributors":[{"name":"yonghuming","email":"964683112@qq.com","commits":1}]},"filePathRelative":"frq/README.md"}');export{e as data};

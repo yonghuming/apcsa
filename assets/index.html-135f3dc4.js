@@ -1,0 +1,1 @@
+import{_ as a,p as t,q as r,R as e,t as c}from"./framework-5866ffd3.js";const d={},n=e("h1",{id:"_2019-readme",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_2019-readme","aria-hidden":"true"},"#"),c(" 2019 readme")],-1),s=[n];function _(o,i){return t(),r("div",null,s)}const l=a(d,[["render",_],["__file","index.html.vue"]]);export{l as default};
